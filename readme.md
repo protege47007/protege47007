@@ -1,4 +1,5 @@
 ## Hi there👋 , I'm David.
+---
 
 ## I'm a Web Developer 🤓
 - I'm currently learning everything 👨‍💻 
@@ -6,13 +7,16 @@
 - :dart: My goals for 2022: 
     1) Get my first job as web developer
     2) learn python, to create a twitter bot that trolls my friends when their team loses :joy: :new_moon_with_face:
+---
 
 ## Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-### Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protege47007)](https://github.com/protege47007/github-readme-stats)
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,3 +35,8 @@
 
 <br />
 <br />
+
+
+
+[linkedin]: 
+[website]: #
