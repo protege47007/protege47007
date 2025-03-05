@@ -4,12 +4,9 @@
 ## I'm a Web Developer 🤓
 - I'm currently learning everything 👨‍💻 
 - I :heart: Man United and Video-games 🎮️
-- :dart: My goals for 2022: 
-    1) Get my first job as web developer ✅
-    2) Learn python ✅
-    3) Create a twitter bot that trolls my friends when their team loses :joy: :new_moon_with_face:
-    4) Finish building my blog,
-    5) Dabble into web3,
+- :dart: My goals for 2025: 
+    1) Visit more countries
+    2) Get started on my Cyber Security Journey
  
 ---
 
